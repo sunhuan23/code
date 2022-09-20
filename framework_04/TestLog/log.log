@@ -1,0 +1,2 @@
+日志:%(name)s-级别:%(levelname)s-时间%(asctime)s-模块%(module)s.py-第%(lineno)d行:%(message)s
+日志:test-级别:DEBUG-时间2022-09-02 11:31:03,491-模块SendEmail.py-第84行:{'sender': '2857228626@qq.com', 'receiver': "['guoshichao33@163.com','2857228626@qq.com']", 'subject': '自动化测试结果_', 'smtpserver': 'smtp.qq.com', 'username': '2857228626@qq.com', 'password': 'ftnuxmrkgukrddcf', 'content': '自动化测试报告详情，请查收附件', 'filename': 'report.html'}

@@ -1,0 +1,5 @@
+tup = (1,2,3,2,3)
+print(tup.index(1))
+print(tup[1])
+print(tup.count(3))
+print(len(tup))
